@@ -21,6 +21,7 @@ This methodology thus aims at describing who your true self is and let people kn
 ## Users already using this methodology of presenting themselves
 
 - [Martin RATINAUD](https://github.com/martinratinaud/work-with-me)
+- add yours here !
 
 ## Contribute
 
@@ -101,3 +102,5 @@ Here you can tell if you share every part of your life or if you share fewer thi
 - [Github](https://www.github.com/xxxx)
 - [Twitter](https://www.twitter.com/xxxx)
 - and more ...
+
+> Good Idea, [I want to join the movement and make up mine](https://github.com/better-human/work-with-me-template)
