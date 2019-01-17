@@ -16,7 +16,12 @@ This methodology thus aims at describing who your true self is and let people kn
 - if you have another job you're in and you want to submit a template for, go ahead
 - if you want to add yourself to the list of users already using this methodology
 
+*Of course, all of these sections are proposals and can be removed/modified if you feel this is odd, irrelevant or unappropriate*
+
 ## Why did I create this
+
+After reading a post of Katie Womersley from Buffer on [Why and How to share your Manager README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b), I got really inspired because I would love to be able to tell, right upfront, if I am more likely to get along with my potential future workmates by having access to their own description of themselves (and not only my manager :-).
+This comes along with my will to “bring my true self at work” as described by Philippe Laloux in his awesome talk on [Reinventing organizations](https://www.youtube.com/watch?v=gcS04BI2sbk&feature=youtu.be)
 
 ## Users already using this methodology of presenting themselves
 
