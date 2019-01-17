@@ -50,46 +50,48 @@ It is a very difficult exercise to summarize a complex human being but this can 
 ## Values
 
 As awesome companies like Buffer or Zapier states, values really describe what is the most important for you.
-And this is what people who will want to work with you may really care about
+And this is what people who will want to work with you may really care about.
 
 ## Family
 
-Being single, married, divorced with 5 kids affects the way you live and handle things
-That's something that usually come up in an interview meeting and as such, belongs here
+Being single, married, divorced with 5 kids affects the way you live and handle things.
+That's something that usually come up in an interview meeting and as such, belongs here.
 
 ## Personality
 
-This is one of the most difficult part, describe who you are to work with
-doer, ego/no-ego, need for acknowledgment,of your work, ...
-Well anything that would help the reader to know you better
+This is one of the most difficult part, describe who you are to work with.
+Doer, ego/no-ego, need for acknowledgment of your work, ...
+Well anything that would help the reader to know you better.
 
 ## Work environment
 
-Talk about your sweet spot, where you actually get work done
-As Zapier, you can share the optimal temperature of your office or your perfect
-At Automattic, you show where you work from https://officetoday.wordpress.com
+Talk about your sweet spot, where you actually get work done.
+As Zapier, you can share the optimal temperature of your office or your perfect.
+At Automattic, you show where you work from https://officetoday.wordpress.com.
 
 ## The most exiting thing you've acomplished/lived
 
-Ice breaker
+You've been awesome once, let them know.
 
 ## Hobbies
 
-One more thing you can find chemistry about
+One more thing you can find chemistry about.
 
 ## Readings
 
-Tell me what You read and I'll tell who who you are
-You can here write down
+Tell me what You read and I'll tell who who you are.
+You can here write down:
 - your favorite book
 - your current book
 - one book that changed your life
 
 ## Social media activity
 
-Here you can tell if you share every part of your life or if you share fewer things or not at all
+Here you can tell if you share every part of your life or if you share fewer things or not at all.
 
 ## Jobs I can do
+
+Maybe you have a lot of hats (french expression sorry :-)) and can do multiple things. he you can describe what capes you can wear as your next superhero's job.
 
 - [Frontend developer](./frontend-developer.md)
 - [Backend developer](./backend-developer.md)
@@ -98,6 +100,9 @@ Here you can tell if you share every part of your life or if you share fewer thi
 - Create your own...
 
 ## Find me on the web
+
+You sure have a lot of social profiles that might be intereting for people who want to get in touch with you, it can also lead to ice breaking discussions if you share a common passion.
+
 - [LinkedIn](https://fr.linkedin.com/in/xxxx)
 - [Github](https://www.github.com/xxxx)
 - [Twitter](https://www.twitter.com/xxxx)
